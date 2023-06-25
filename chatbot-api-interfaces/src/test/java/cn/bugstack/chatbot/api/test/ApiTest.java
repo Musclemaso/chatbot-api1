@@ -6,6 +6,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 public class ApiTest {
-
+    @Test
+    public void sss(){
+        System.out.println("mmm");
+    }
 
 }
